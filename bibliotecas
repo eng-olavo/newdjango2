@@ -1,0 +1,12 @@
+django
+whitenoise
+gunicorn
+django-bootstrap4
+PyMySQL
+django-stdimage
+* MySQL (aula 38)
+
+
+comando:
+
+pip install django whitenoise gunicorn django-bootstrap4 PyMySQL django-stdimage MySQL
